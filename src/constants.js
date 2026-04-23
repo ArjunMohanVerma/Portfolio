@@ -36,13 +36,13 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
-import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
-import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from './assets/work_logo/cm.png';
-import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
+import movierecLogo from './assets/work_logo/tlnt.png';
+// import taskremLogo from './assets/work_logo/task_rem.png';
+// import npmLogo from './assets/work_logo/npm.png';
+// import webverLogo from './assets/work_logo/web_dig.png';
+// import cmLogo from './assets/work_logo/cm.png';
+// import imagesearchLogo from './assets/work_logo/image_search.png';
+// import removebgLogo from './assets/work_logo/remove_bg.png';
 
 
 export const SkillsInfo = [
@@ -176,6 +176,6 @@ export const SkillsInfo = [
       image: movierecLogo,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript","Nod JS","Express JS","MongoDB","Clerk","Inngest","Stream"],
       github: "https://github.com/ArjunMohanVerma/Talent-IQ",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      webapp: "https://talent-iq-1-exy7.onrender.com/",
     },
   ];  

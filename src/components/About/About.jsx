@@ -27,7 +27,6 @@ const About = () => {
               text={[
                 'Fullstack Developer',
                 'App Developer',
-                'UI/UX Designer',
                 'Coder',
               ]}
               speed={100}
@@ -49,7 +48,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/10iDnz14o4m5yjXYh1r7p9npUdXvDu9Ps/view"
+            href="https://drive.google.com/file/d/10PxpNCzRoVzlr0dVUF-ey9vKJeyiMiaE/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
